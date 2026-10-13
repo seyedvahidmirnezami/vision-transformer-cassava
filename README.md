@@ -55,6 +55,7 @@ This is Session 15 of **[Master Transformers from Scratch: BERT, ViT & AI Search
 The course builds up to this from the math of attention, through the encoder block and BERT, so you understand every layer you fine-tune here.
 
 More from the course:
+- [transformer-encoder-pytorch](https://github.com/seyedvahidmirnezami/transformer-encoder-pytorch): the full encoder block, and why positional encoding matters
 - [self-attention-from-scratch](https://github.com/seyedvahidmirnezami/self-attention-from-scratch): attention with real numbers, in NumPy and PyTorch
 - [semantic-search-two-tower](https://github.com/seyedvahidmirnezami/semantic-search-two-tower): build two-tower retrieval from scratch
 
